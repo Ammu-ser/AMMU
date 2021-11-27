@@ -307,15 +307,15 @@ Eg: .dict en_US;lead
 
 🎗️ .caption 
 💖 changes all captions_ 
-💬 Eg:- : .caption *Made by Miss Helena*
+💬 Eg:- : .caption *𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐍𝐔𝐒𝐄𝐑*
 
 🎗️ .number 
 💖 change user number_ 
-💬 Eg:- : .number *Made by Helena*
+💬 Eg:- : .number *𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐍𝐔𝐒𝐄𝐑*
 
 🎗️ .deployer 
 💖 change user name_ 
-💬 Eg:- : .deployer *Made by Helena*
+💬 Eg:- : .deployer *𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐍𝐔𝐒𝐄𝐑*
 
 🎗️ .handlers 
 💖 changes handlers_ 
