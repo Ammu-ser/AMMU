@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: 'command help menu'}, (a
 
     
 
-    r_text[0] = Config.LG_LOGO
+    r_text[0] = Config.L_LOG
 
     
 
