@@ -1,4 +1,4 @@
-<h3 align="center">🎗️🅢︎🅞︎🅛︎🅞︎🎗️</h3>
+<h3 align="center">𓊈𒆜🅰🅼🅼🆄𒆜𓊉</h3>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 </p>
 </div>
 <p align="center">
-𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑨𝑵𝑼𝑺𝑬𝑹
+𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑨mmu-ser
     <br>
        | © |
         
@@ -30,7 +30,7 @@ Click WA logo to Join Support Group 👇
 </p>
 
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/SOLO.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Ammu-ser/Ammu.git)
      
 
 
